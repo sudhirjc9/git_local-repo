@@ -1,3 +1,7 @@
 ## This is to test a local file which is not on github
 
 This test is in the feature branch only --> to test
+
+This line is added in merge-conflict branch to raise merge conflict
+
+This line is added in temp_branch branch to raise merge conflict
